@@ -1,0 +1,24 @@
+.box {
+    height:300px;
+    width:200px;
+    border:5px solid whitesmoke;
+    background-image: url(img7.jpeg);
+    background-image: url(img 5.jpg);
+    margin:auto;
+}
+.mall {
+    color:azure;
+    background-color:brown;
+    height:80px;
+
+}
+.mar {
+    color:aqua;
+    background-color:blueviolet;
+    height:40px;
+}
+.ox {
+    height:300px;
+    width:200px;
+    background-image: url(img 5.jpg);
+}
